@@ -1,5 +1,8 @@
-### Hi there 👋
-new message 2do mesage
+---
+tags: taligent, profile
+---
+### Kevin Barroso (kevin.barroso@taligent.com.ar)
+
 <!--
 **kevintali/kevintali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
